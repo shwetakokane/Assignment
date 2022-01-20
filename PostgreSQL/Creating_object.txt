@@ -1,0 +1,9 @@
+user1={ "name":"Rich Dad Poor dad",
+		"Author": {"Robert Kiyosaki"}
+}
+user2={ "name":"Savarkar: Echoes from a Forgotten Past",
+		"Author": {"Vikram Sampath"}
+}
+user2={ "name":"Obama-The Call of History",
+		"Author": {"Peter Baker"}
+}
